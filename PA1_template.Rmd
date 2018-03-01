@@ -2,7 +2,9 @@
 title: "Reproducible Research Week 2 Project"
 author: "Carlos Yunda"
 date: "February 28, 2018"
-output: html_document
+output:
+  md_document: default
+  html_document: default
 ---
 
 
